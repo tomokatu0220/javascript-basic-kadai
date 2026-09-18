@@ -1,5 +1,5 @@
-const tenfold = (number) => {
-  return number * 10
-}
+const double = (number) => {
+  return number * 2;
+};
 
-console.log(tenfold(10));
+console.log(double(50));
